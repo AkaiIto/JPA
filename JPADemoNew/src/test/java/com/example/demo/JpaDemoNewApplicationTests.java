@@ -11,6 +11,7 @@ public class JpaDemoNewApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("vishal")
 	}
 
 }
